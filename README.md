@@ -51,7 +51,7 @@ It enables you to **add members**, **schedule meetings**, **track follow-ups**, 
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/harvestflow-evangelism.git
+git clone https://github.com/dodger215/harvestflow-evangelism.git
 cd harvestflow-evangelism
 ```
 
